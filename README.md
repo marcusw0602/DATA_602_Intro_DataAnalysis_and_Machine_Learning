@@ -1,3 +1,6 @@
+<div class="container" align="center">
+    <img src="https://github.com/Lwhieldon/IntroToDataAnalysis/blob/master/Images/data-analytics-banner.png?raw=true" width="1200" height="100">
+    </div>
 
 # DATA_602_Intro_DataAnalysis_and_Machine_Learning
 
