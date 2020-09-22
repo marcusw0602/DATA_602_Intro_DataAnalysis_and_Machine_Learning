@@ -13,11 +13,11 @@ For this particular task I will be taking a deep dive in analyzing an Airbnb dat
 ---
 ## ReadME Navigation
 
-[Data](https://github.com/a-woodbury/A-House-with-a-View#data) -
-[Reporting/Model](https://github.com/a-woodbury/A-House-with-a-View#Reporting/Model) -
-[Results](https://github.com/a-woodbury/A-House-with-a-View#results) -  
-[Conclusion](https://github.com/a-woodbury/A-House-with-a-View#Conclusion) - 
-[Next Items](https://github.com/a-woodbury/A-House-with-a-View#Next_Items)
+[Data](https://github.com/marcusw0602/DATA_602_Intro_DataAnalysis_and_Machine_Learning/tree/master/Assignments%26Projects/Linear%20Regression%20Model#Data) -
+[Reporting/Model](https://github.com/marcusw0602/DATA_602_Intro_DataAnalysis_and_Machine_Learning/tree/master/Assignments%26Projects/Linear%20Regression%20Model#Reporting/Model) -
+[Results](https://github.com/marcusw0602/DATA_602_Intro_DataAnalysis_and_Machine_Learning/tree/master/Assignments%26Projects/Linear%20Regression%20Model#Results) -  
+[Conclusion](https://github.com/marcusw0602/DATA_602_Intro_DataAnalysis_and_Machine_Learning/tree/master/Assignments%26Projects/Linear%20Regression%20Model#Conclusion) - 
+[Next Items](https://github.com/marcusw0602/DATA_602_Intro_DataAnalysis_and_Machine_Learning/tree/master/Assignments%26Projects/Linear%20Regression%20Model#Next_Items)
 
 ---
 ## Data
