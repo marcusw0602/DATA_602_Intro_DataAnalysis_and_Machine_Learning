@@ -6,7 +6,8 @@ For this particular task I will be taking a deep dive in analyzing an Airbnb dat
 ---
 ## Repository Content
 
-- <b>Airbnb data :</b> This folder will house the csv file of a data set that contains 48896 records. You can access the dataset from this link or from Kaggle its original site. 
+- <b>Airbnb data :</b> This folder will house the csv file of a data set that contains 48896 records. You can access the dataset from this link or from Kaggle its original site.
+- <b>Images :</b> Houses all chart <a href= images used for this repository.
 - <b>Jupyter Notebooks :</b> Contains the following notebooks used to clean, preprocess/report, and model the data from the Airbnb dataset. 
 - <b>Executive Report</b> The Notebook that contains the analyst, modeling, and insight.
 
