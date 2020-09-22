@@ -14,7 +14,7 @@ For this particular task I will be taking a deep dive in analyzing an Airbnb dat
 ## ReadME Navigation
 
 [Data](https://github.com/marcusw0602/DATA_602_Intro_DataAnalysis_and_Machine_Learning/tree/master/Assignments%26Projects/Linear%20Regression%20Model#Data) -
-[Reporting/Model](https://github.com/marcusw0602/DATA_602_Intro_DataAnalysis_and_Machine_Learning/tree/master/Assignments%26Projects/Linear%20Regression%20Model#Reporting/Model) -
+[Analysis](https://github.com/marcusw0602/DATA_602_Intro_DataAnalysis_and_Machine_Learning/tree/master/Assignments%26Projects/Linear%20Regression%20Model#Analysis) -
 [Results](https://github.com/marcusw0602/DATA_602_Intro_DataAnalysis_and_Machine_Learning/tree/master/Assignments%26Projects/Linear%20Regression%20Model#Results) -  
 [Conclusion](https://github.com/marcusw0602/DATA_602_Intro_DataAnalysis_and_Machine_Learning/tree/master/Assignments%26Projects/Linear%20Regression%20Model#Conclusion) - 
 [Future](https://github.com/marcusw0602/DATA_602_Intro_DataAnalysis_and_Machine_Learning/tree/master/Assignments%26Projects/Linear%20Regression%20Model#Future)
@@ -23,7 +23,7 @@ For this particular task I will be taking a deep dive in analyzing an Airbnb dat
 ## Data
 
 ---
-## Reporting/Model
+## Analysis
 
 ---
 ## Results
