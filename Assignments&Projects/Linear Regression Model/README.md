@@ -22,6 +22,7 @@ For this particular task I will be taking a deep dive in analyzing an Airbnb dat
 
 ---
 ## Data
+Since 2008, the guests and hosts have used Airbnb to expand on traveling possibilities and present more unique, personalized way of experiencing the world. This dataset describes the listing activity and metrics in NYC, NY for the year 2019. This dataset is populated with New York Cities 5 districts, neighborhoods, and pricing information for each rental on the market. 
 
 ---
 ## Analysis
