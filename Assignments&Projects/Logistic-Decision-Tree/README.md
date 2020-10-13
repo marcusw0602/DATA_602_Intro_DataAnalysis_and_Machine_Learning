@@ -47,6 +47,17 @@ This dataset contains 70000 entries corresponding to 13 columns of health factor
   <li> <a href=https://github.com/marcusw0602/DATA_602_Intro_DataAnalysis_and_Machine_Learning/blob/master/Assignments%26Projects/Logistic-Decision-Tree/code.ipynb>Code:</a> Used to clean, preprocess/report, and model the data for the final project output. </li>
 </ol>
 
+## Conclusion
+When creating the two models I am seeing better performance in identifying positive and negative case of CVD in the Decision Tree classifier than that of the logistic regression. 
+
+For the Decision tree model all three precision, recall, and f1-score precentages are better than that of the logistic model. However with this this being a disease and a leader in american deaths we would want the accuracy for predicting positive and negative case to be significantly higher. We would want the accuracy in the threshold of 95-97% then that of 73-74% with about a +20% giving the wrong predictions. 
+
+I do believe that we can certainly improve this model and dataset to include certain food groupings and other health factors that are contributors to this disease that strengthen our predictions.  
+
+# Limitation and later works
+
+There were no limitations as far as modeling the data using the Decision Tree and Logistic Regression. I would say that for later works I would be very interested in breaking the dataset apart and modeling the predictions in women and men seperate. As seen in the report women have a tremendous amount of cases than men along with a significant amount of positive case to add. 
+
 <br>
 <pre>
 Contributors : <a href=https://github.com/marcusw0602>Demarcus Wirsing</a>
