@@ -8,7 +8,7 @@ Can we tell by looking at a person's medical history that they can develop CVD, 
 
 In this project, I will attempt to complete the following below:
 <ol>
-<li><b>Explore CVD Features in relation to themselves and CVD:</b> Examine features of toxic versus edible North American gilled mushrooms.</li>
+<li><b>Explore CVD Features in relation to themselves and CVD:</b> Menaing creating relational graphs filtered down by CVD development.</li>
 <li><b>Model comparison:</b> I will be comparing two very common used classification models for accuracy: Logistic Regression and Decision Tree Classification.</li>
 </ol>
 
