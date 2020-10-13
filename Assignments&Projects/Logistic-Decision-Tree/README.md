@@ -54,7 +54,7 @@ For the Decision tree model all three precision, recall, and f1-score precentage
 
 I do believe that we can certainly improve this model and dataset to include certain food groupings and other health factors that are contributors to this disease that strengthen our predictions.  
 
-# Limitation and later works
+## Limitation and later works
 
 There were no limitations as far as modeling the data using the Decision Tree and Logistic Regression. I would say that for later works I would be very interested in breaking the dataset apart and modeling the predictions in women and men seperate. As seen in the report women have a tremendous amount of cases than men along with a significant amount of positive case to add. 
 
