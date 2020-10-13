@@ -43,15 +43,13 @@ This dataset contains 70000 entries corresponding to 13 columns of health factor
 
 <ol>
   <li><a href=https://github.com/Lwhieldon/IstheMushroomPoisonous/blob/master/notebooks%2Bdata%2Bimages/mushrooms.csv>Dataset in Repo</a>. Local copy of the original dataset from the ICU Machine Learning Repository.</li>
-  <li><a href=https://github.com/Lwhieldon/IstheMushroomPoisonous/blob/master/notebooks%2Bdata%2Bimages/labels.txt>Dataset Labels</a> A helpful text file explaining each feature label assigned to a mushroom. </li>
-  <li><a href=https://github.com/Lwhieldon/IstheMushroomPoisonous/blob/master/notebooks%2Bdata%2Bimages/summaryreport.ipynb>Summary and Report</a>: Jupyter Notebook including a detailed abstract on problems in assignment, code relevant to project, and visualizations supporting the completion of the project. </li>
-  <li> <a href=https://github.com/Lwhieldon/IstheMushroomPoisonous/blob/master/notebooks%2Bdata%2Bimages/code.ipynb>Code:</a> Area to perform testing of dataset, functions, and implement models before final project output. </li>
-  <li> <a href=https://github.com/Lwhieldon/IstheMushroomPoisonous/blob/master/notebooks%2Bdata%2Bimages/utils.py>utils.py:</a> .py file to store functions I use throughout the project to make notebooks & summary report clean. </li>
+  <li><a href=https://github.com/marcusw0602/DATA_602_Intro_DataAnalysis_and_Machine_Learning/blob/master/Assignments%26Projects/Logistic-Decision-Tree/Summary.ipynb>Summary/Report</a>: Jupyter Notebook including a detailed abstract on problems in assignment, code relevant to project, and visualizations supporting the completion of the project. </li>
+  <li> <a href=https://github.com/marcusw0602/DATA_602_Intro_DataAnalysis_and_Machine_Learning/blob/master/Assignments%26Projects/Logistic-Decision-Tree/code.ipynb>Code:</a> Used to clean, preprocess/report, and model the data for the final project output. </li>
 </ol>
 
 <br>
 <pre>
-Contributors : <a href=https://github.com/Lwhieldon>Lee Whieldon</a>
+Contributors : <a href=https://github.com/marcusw0602>Demarcus Wirsing</a>
 </pre>
 
 <pre>
@@ -59,8 +57,3 @@ Languages    : Python
 Tools/IDE    : Anaconda
 Libraries    : pandas, numpy, matplotlib, seaborn, sklearn
 </pre>
-
-<pre>
-Assignment Submitted     : October 2020
-</pre>
-
