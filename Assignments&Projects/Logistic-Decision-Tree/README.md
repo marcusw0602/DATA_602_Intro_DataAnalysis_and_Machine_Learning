@@ -42,7 +42,8 @@ This dataset contains 70000 entries corresponding to 13 columns of health factor
 ## Table of Contents
 
 <ol>
-  <li><a href=https://github.com/marcusw0602/DATA_602_Intro_DataAnalysis_and_Machine_Learning/blob/master/Assignments%26Projects/Logistic-Decision-Tree/Predicting%20CVD%20Positivity%20%26%20Negativity.pptx>Powerpoint</a>. Here is a link to the powerpoint for this project.</li>
+  <li><a href=https://github.com/marcusw0602/DATA_602_Intro_DataAnalysis_and_Machine_Learning/blob/master/Assignments%26Projects/Logistic-Decision-Tree/Predicting%20CVD%20Positivity%20%26%20Negativity.pptx>Powerpoint</a>. Here is a link to the powerpoint for this project.</li>\
+  <li><a href=https://youtu.be/O2IesCne-_o>Video Presentation</a>. Here is a link to the video presentation for this project.</li>
   <li><a href=https://github.com/marcusw0602/DATA_602_Intro_DataAnalysis_and_Machine_Learning/blob/master/Assignments%26Projects/Logistic-Decision-Tree/Cardio.csv>Dataset</a>. Local copy of the original dataset from Repository.</li>
   <li><a href=https://github.com/marcusw0602/DATA_602_Intro_DataAnalysis_and_Machine_Learning/blob/master/Assignments%26Projects/Logistic-Decision-Tree/Summary.ipynb>Summary/Report</a>: Jupyter Notebook including a detailed abstract on problems in assignment, code relevant to project, and visualizations supporting the completion of the project. </li>
   <li> <a href=https://github.com/marcusw0602/DATA_602_Intro_DataAnalysis_and_Machine_Learning/blob/master/Assignments%26Projects/Logistic-Decision-Tree/code.ipynb>Code:</a> Used to clean, preprocess/report, and model the data for the final project output. </li>
