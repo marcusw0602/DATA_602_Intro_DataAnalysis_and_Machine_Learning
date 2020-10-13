@@ -2,7 +2,7 @@
     <img src="https://github.com/marcusw0602/DATA_602_Intro_DataAnalysis_and_Machine_Learning/blob/master/Pictures/ML.jpg" width="500" height="350">
     </div>
 
-# DataAnalysis and Machine_Learning
+# DataAnalysis and Machine Learning
 
 This repository will house all code and presentations for all class assignments along with side projects related to Machine leanring.
 
