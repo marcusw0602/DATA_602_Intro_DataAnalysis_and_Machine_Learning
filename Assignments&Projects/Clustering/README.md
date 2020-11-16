@@ -14,6 +14,14 @@ Within the assignment, I will try to complete a segementation based on Customer'
   <li><b>Create/Establish Clustering model:</b> Here I am creating a clustering model and then comparing that models attributes against the labels to see which clusters need to be focused more on.</li>
 </ol>
 
+## Table of Contents
+
+<ol>
+  <li><a href=https://github.com/marcusw0602/DataAnalysis-and-Machine-Learning/blob/master/Assignments%26Projects/Clustering/OnlineRetail.csv.zip>Dataset</a>. Local copy of the original dataset from Repository.</li>
+  <li><a href=https://github.com/marcusw0602/DataAnalysis-and-Machine-Learning/blob/master/Assignments%26Projects/Clustering/Clustering%20ML.ipynb>Summary/Report</a>: Jupyter Notebook including a detailed abstract on problems in assignment, code relevant to project, and visualizations supporting the completion of the project. </li>
+  <li> <a href=https://github.com/marcusw0602/DataAnalysis-and-Machine-Learning/blob/master/Assignments%26Projects/Clustering/Code.ipynb>Code:</a> Used to clean, preprocess/report, and model the data for the final project output. </li>
+</ol>
+
 ## Dataset Details
 <a href=https://github.com/marcusw0602/DataAnalysis-and-Machine-Learning/blob/master/Assignments%26Projects/Clustering/OnlineRetail.csv.zip>E-commerce retail dataset</a>: This dataset contains 541909 rows of data and 8 columns of attributes. 
 
@@ -27,13 +35,6 @@ Within the assignment, I will try to complete a segementation based on Customer'
 - CustomerID: Customer number, Object.
 - Country: Country name, Object. 
 
-## Table of Contents
-
-<ol>
-  <li><a href=https://github.com/marcusw0602/DataAnalysis-and-Machine-Learning/blob/master/Assignments%26Projects/Clustering/OnlineRetail.csv.zip>Dataset</a>. Local copy of the original dataset from Repository.</li>
-  <li><a href=https://github.com/marcusw0602/DataAnalysis-and-Machine-Learning/blob/master/Assignments%26Projects/Clustering/Clustering%20ML.ipynb>Summary/Report</a>: Jupyter Notebook including a detailed abstract on problems in assignment, code relevant to project, and visualizations supporting the completion of the project. </li>
-  <li> <a href=https://github.com/marcusw0602/DataAnalysis-and-Machine-Learning/blob/master/Assignments%26Projects/Clustering/Code.ipynb>Code:</a> Used to clean, preprocess/report, and model the data for the final project output. </li>
-</ol>
 
 ## Conclusion
 We can see that the data in the summary is fairly balanced with the number of orders made by customers except for the few outliers that we do have. These outliers can be seen with the bars that break out of the normal trend of not passing 2k-3k orders made.Also the top 5 customer that order items are from the UK.
