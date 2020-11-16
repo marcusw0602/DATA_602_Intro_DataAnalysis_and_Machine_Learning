@@ -11,7 +11,7 @@ Within the assignment, I will try to complete a segementation based on Customer'
   <li><b>Data Prep/Analyze:</b> Cleaning and aggregating the dataset so that it will not contain any missing, null, and outlier values.</li>
   <li><b>Data Vizualization:</b> You will see how the data columns stacks up to one another to bring out and answer question that are created from the vizualizations.</li>
   <li><b>Feature Engineering:</b> I will create add-ons to the data set from the pre-existing information to strengthen the machine learning model.</li>
-  <li><b>Create/Establish Clustering model:</b> Here I am creating two clustering models and then comparing boths succession rates to determine the best model to use.</li>
+  <li><b>Create/Establish Clustering model:</b> Here I am creating a clustering model and then comparing that models attributes against the labels to see which clusters need to be focused more on.</li>
 </ol>
 
 ## Dataset Details
