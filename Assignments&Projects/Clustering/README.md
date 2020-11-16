@@ -36,9 +36,7 @@ Within the assignment, I will try to complete a segementation based on Customer'
 </ol>
 
 ## Conclusion
-We can see that the data in the summary is fairly balanced with the number of orders made by customers except for the few outliers that we do have. These outliers can be seen with the bars that break out of the normal trend of not passing 2k-3k orders made. 
-
-<img src="https://github.com/marcusw0602/DataAnalysis-and-Machine-Learning/blob/master/Assignments%26Projects/Clustering/images/Number%20of%20Orders%20for%20different%20Customers.png" alt="Bar" width="75%" height="75%" >
+We can see that the data in the summary is fairly balanced with the number of orders made by customers except for the few outliers that we do have. These outliers can be seen with the bars that break out of the normal trend of not passing 2k-3k orders made.Also the top 5 customer that order items are from the UK.
 
 From what you can see from the report, you have the most money spent per customer but with this being shown there are more outliers given an a lower amount of data that is in a normal range you can see that when the amount spent goes over 50k you can detemine this to be an outlier. Lastly, when comparing the top 5 orders to top 5 money spent there is only one match and that is.
 
