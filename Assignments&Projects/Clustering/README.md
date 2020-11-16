@@ -36,6 +36,16 @@ Within the assignment, I will try to complete a segementation based on Customer'
 </ol>
 
 ## Conclusion
+As we can see here that the data is fairly balanced with the number of orders made by customers except for the few outliers that we do have. These outliers can be seen with the bars that break out of the normal trend of not passing 2k-3k orders made. We can also see that The top 4 out of 5 customers who have the most orders are from the United Kingdoms.
+
+From what you can see below you have the most money spent per customer but with this being shown there are more outliers given an a lower amount of data that is in a normal range you can see that when the amount spent goes over 50k you can detemine this to be an outlier. Lastly, when comparing the top 5 orders to top 5 money spent there is only one match and that is.
+
+- 14911 EIRE with 5675 orders and $143,825.06 spent
+
+Below you will see the number of orders that have been place from the 1st Dec 2010 - 9th Dec 2011. In the bar graph you can see that there is a trend occurring every 2 to 3 months where the number of orders are rising and failing. If there is more to investigate would to see why there is a consistent rise and fall in throughout the year.
+
+We can see here after looking at the cluster zero, one, and two that the customer that fail into the cluster 2 does not need to be focused on to grow the sales of the store. But what needs to happen is that the store will have to focus more on the customer who fall into the clusters of 0 and 1 becasue both clusters compared to cluster 2 did not report as well on the amount of spend and how often they bought an item. From this we will have to create some marketing strategies to target this specific customer to spend more and become more frequent when buy our items. More inmportantl customer from cluster 1 as they are the news customers to the store.
+
 ## Limitation and later works
 
 <br>
